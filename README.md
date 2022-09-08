@@ -8,4 +8,4 @@ Meu repositório referente ao meu estudo de js na Alura
 Para rodar esse projeto fictício será necessário:
 
 ````
-nodeJs, github
+node app.js
